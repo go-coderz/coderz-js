@@ -1,0 +1,15 @@
+{
+  "name": "coderz",
+  "version": "1.0.0",
+  "description": "js driver for coderz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CoderZ",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0",
+    "websocket": "^1.0.31"
+  }
+}
